@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/rolando24/upset/0f35d619ab1ede38520ff36eee0e9f8762d94c51/test.csv",
+	"name": "shared OGs ",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "OG_ID" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+	]
+}
